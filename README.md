@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou o Guilherme</h1>
 <h3 align="center">Sou recém formado em um bootcamp de Desenvolvimento Web</h3>
 
-<p Meus Projetos:> <p>
+<p> Meus Projetos: <p>
 
 
 
